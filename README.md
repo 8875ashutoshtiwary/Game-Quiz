@@ -4,7 +4,8 @@ I used this technology HTML,CSS AND JAVASCRIPT.
 
 System Requirements-- -->Hard Disk -100gb -->RAM- 4gb -->SD Card- 216gb
 
-#Software -->Editor--Visual studio code installation,Notepad -->Nodejs installation -->React Module
+#Software -->Editor--Visual studio code installation,Notepad 
+Browser--Google Chrome, Fire Exploser
 
 OUTPUT----
 
